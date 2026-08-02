@@ -1,4 +1,4 @@
-# 👋 Hi, I'm UlltraProXDev
+# 👋 Hi, I'm Jidnyesh Zambre
 
 Aspiring developer passionate about learning algorithms, data structures, and clean code | Continuously improving skills in Java, Python, and C++  
 
@@ -15,9 +15,3 @@ Aspiring developer passionate about learning algorithms, data structures, and cl
 - System design basics  
 - Competitive programming challenges  
 - Backend development concepts  
-
----
-
-## 📈 GitHub Stats
-![UlltraProXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlltraProXDev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlltraProXDev&layout=compact&theme=radical)  
