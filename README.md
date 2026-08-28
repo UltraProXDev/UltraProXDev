@@ -581,217 +581,109 @@ The project represents my practical implementation of:
 
 ---
 
-<!-- ================= BACKEND ENGINEERING ================= -->
+<h2 align="center">⚡ THE BACKEND PIPELINE</h2>
 
-<h2 align="center">⚡ Backend Engineering Mindset</h2>
+<table align="center">
+<tr>
+
+<td align="center" width="16%">
+<h2>💡</h2>
+<b>PROBLEM</b>
+<br><br>
+<sub>Requirements</sub>
+<br>
+<sub>Constraints</sub>
+<br>
+<sub>Use Cases</sub>
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="16%">
+<h2>🏗️</h2>
+<b>DESIGN</b>
+<br><br>
+<sub>Architecture</sub>
+<br>
+<sub>Components</sub>
+<br>
+<sub>Data Model</sub>
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="16%">
+<h2>⚙️</h2>
+<b>BUILD</b>
+<br><br>
+<sub>Java</sub>
+<br>
+<sub>Spring Boot</sub>
+<br>
+<sub>Clean Code</sub>
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="16%">
+<h2>🌐</h2>
+<b>CONNECT</b>
+<br><br>
+<sub>REST API</sub>
+<br>
+<sub>JPA</sub>
+<br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="16%">
+<h2>🔐</h2>
+<b>PROTECT</b>
+<br><br>
+<sub>Security</sub>
+<br>
+<sub>Validation</sub>
+<br>
+<sub>Authorization</sub>
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="16%">
+<h2>🚀</h2>
+<b>SHIP</b>
+<br><br>
+<sub>Test</sub>
+<br>
+<sub>Deploy</sub>
+<br>
+<sub>Improve</sub>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <sub>
-    From understanding the problem → designing the architecture → building the system → securing, testing and improving it.
-  </sub>
+  <b>
+    <code>IDEA</code>
+    →
+    <code>ARCHITECTURE</code>
+    →
+    <code>IMPLEMENTATION</code>
+    →
+    <code>API</code>
+    →
+    <code>DATABASE</code>
+    →
+    <code>SECURITY</code>
+    →
+    <code>TESTING</code>
+    →
+    <code>PRODUCTION</code>
+  </b>
 </p>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="14%">
-      <h2>🧠</h2>
-      <b>UNDERSTAND</b>
-      <br><br>
-      <sub>Analyze the problem</sub>
-      <br>
-      <sub>Identify requirements</sub>
-      <br>
-      <sub>Define constraints</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>🏗️</h2>
-      <b>ARCHITECT</b>
-      <br><br>
-      <sub>Design components</sub>
-      <br>
-      <sub>Define responsibilities</sub>
-      <br>
-      <sub>Choose architecture</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>⚙️</h2>
-      <b>ENGINEER</b>
-      <br><br>
-      <sub>Write clean code</sub>
-      <br>
-      <sub>Apply SOLID principles</sub>
-      <br>
-      <sub>Build maintainable systems</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>🌐</h2>
-      <b>API</b>
-      <br><br>
-      <sub>RESTful endpoints</sub>
-      <br>
-      <sub>HTTP & JSON</sub>
-      <br>
-      <sub>API contracts</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>🗄️</h2>
-      <b>DATA</b>
-      <br><br>
-      <sub>MySQL</sub>
-      <br>
-      <sub>JPA / Hibernate</sub>
-      <br>
-      <sub>Data relationships</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>🔐</h2>
-      <b>SECURE</b>
-      <br><br>
-      <sub>Authentication</sub>
-      <br>
-      <sub>Authorization</sub>
-      <br>
-      <sub>Input validation</sub>
-    </td>
-
-    <td align="center" width="14%">
-      <h2>🚀</h2>
-      <b>DELIVER</b>
-      <br><br>
-      <sub>Test</sub>
-      <br>
-      <sub>Deploy</sub>
-      <br>
-      <sub>Monitor & improve</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <h3>☕</h3>
-      <b>JAVA</b>
-      <br>
-      <sub>OOP • Collections</sub>
-      <br>
-      <sub>Streams • Exceptions</sub>
-    </td>
-
-    <td align="center" width="20%">
-      <h3>🌱</h3>
-      <b>SPRING ECOSYSTEM</b>
-      <br>
-      <sub>Spring Framework</sub>
-      <br>
-      <sub>Spring Boot • MVC</sub>
-    </td>
-
-    <td align="center" width="20%">
-      <h3>🧩</h3>
-      <b>PERSISTENCE</b>
-      <br>
-      <sub>JPA • Hibernate</sub>
-      <br>
-      <sub>Repositories • ORM</sub>
-    </td>
-
-    <td align="center" width="20%">
-      <h3>🌐</h3>
-      <b>REST APIs</b>
-      <br>
-      <sub>CRUD • HTTP</sub>
-      <br>
-      <sub>JSON • Postman</sub>
-    </td>
-
-    <td align="center" width="20%">
-      <h3>🐬</h3>
-      <b>DATABASE</b>
-      <br>
-      <sub>MySQL • SQL</sub>
-      <br>
-      <sub>Relationships • Queries</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🧱</h3>
-      <b>ARCHITECTURE</b>
-      <br><br>
-      <code>Controller</code>
-      <br>↓<br>
-      <code>Service</code>
-      <br>↓<br>
-      <code>Repository</code>
-      <br>↓<br>
-      <code>Database</code>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🔐</h3>
-      <b>SECURITY</b>
-      <br><br>
-      <code>Authentication</code>
-      <br>↓<br>
-      <code>Authorization</code>
-      <br>↓<br>
-      <code>Roles / Permissions</code>
-      <br>↓<br>
-      <code>Protected APIs</code>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🧪</h3>
-      <b>QUALITY</b>
-      <br><br>
-      <code>Validation</code>
-      <br>↓<br>
-      <code>Exception Handling</code>
-      <br>↓<br>
-      <code>API Testing</code>
-      <br>↓<br>
-      <code>Refactoring</code>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>📈</h3>
-      <b>SCALABILITY</b>
-      <br><br>
-      <code>Clean Architecture</code>
-      <br>↓<br>
-      <code>Performance</code>
-      <br>↓<br>
-      <code>Caching</code>
-      <br>↓<br>
-      <code>System Design</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=40&lines=Understand+%E2%86%92+Architect+%E2%86%92+Engineer+%E2%86%92+Secure+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Improve"
-    alt="Backend engineering workflow"
-  />
-</p>
-
 ---
 
 # `11` // DEVELOPMENT WORKFLOW
