@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ULTRAPROXDEV&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:020617,35:071A2B,65:004C6D,100:00E5FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=UltraProXDev&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:020617,35:071A2B,65:004C6D,100:00E5FF"
     width="100%"
   />
 </p>
@@ -464,7 +464,7 @@ The project represents my practical implementation of:
 
 ```text
                  ┌──────────────────┐
-                 │      PROBLEM      │
+                 │      PROBLEM     │
                  └────────┬─────────┘
                           ▼
                  ┌──────────────────┐
