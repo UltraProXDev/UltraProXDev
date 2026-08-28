@@ -1,8 +1,3 @@
-# 👋 Hi, I'm **Jidnyesh Zambre**
-
-### 🚀 Aspiring Software Developer • Problem Solver • Lifelong Learner
-
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=UltraProXDev&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:020617,35:071A2B,65:004C6D,100:00E5FF"
@@ -54,7 +49,7 @@ My current engineering path is centered around the **Spring ecosystem**, databas
 │                                                          │
 │  ☕ Java              ████████████████████░░  Learning   │
 │  🌱 Spring Boot       ██████████████████░░░░  Building   │
-│  🔐 Spring Security   ███████████████░░░░░░  Learning   │
+│  🔐 Spring Security   ███████████████░░░░░░  Learning    │
 │  🌐 REST APIs         ███████████████████░░░  Building   │
 │  🗃️ JPA / Hibernate   ██████████████████░░░░  Building   │
 │  🐬 MySQL             ███████████████████░░░  Building   │
@@ -586,49 +581,220 @@ The project represents my practical implementation of:
 
 ---
 
-# `11` // CONTRIBUTION ACTIVITY
+<!-- ================= BACKEND ENGINEERING ================= -->
+
+<h2 align="center">⚡ Backend Engineering Mindset</h2>
+
+<p align="center">
+  <sub>
+    From understanding the problem → designing the architecture → building the system → securing, testing and improving it.
+  </sub>
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="14%">
+      <h2>🧠</h2>
+      <b>UNDERSTAND</b>
+      <br><br>
+      <sub>Analyze the problem</sub>
+      <br>
+      <sub>Identify requirements</sub>
+      <br>
+      <sub>Define constraints</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>🏗️</h2>
+      <b>ARCHITECT</b>
+      <br><br>
+      <sub>Design components</sub>
+      <br>
+      <sub>Define responsibilities</sub>
+      <br>
+      <sub>Choose architecture</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>⚙️</h2>
+      <b>ENGINEER</b>
+      <br><br>
+      <sub>Write clean code</sub>
+      <br>
+      <sub>Apply SOLID principles</sub>
+      <br>
+      <sub>Build maintainable systems</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>🌐</h2>
+      <b>API</b>
+      <br><br>
+      <sub>RESTful endpoints</sub>
+      <br>
+      <sub>HTTP & JSON</sub>
+      <br>
+      <sub>API contracts</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>🗄️</h2>
+      <b>DATA</b>
+      <br><br>
+      <sub>MySQL</sub>
+      <br>
+      <sub>JPA / Hibernate</sub>
+      <br>
+      <sub>Data relationships</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>🔐</h2>
+      <b>SECURE</b>
+      <br><br>
+      <sub>Authentication</sub>
+      <br>
+      <sub>Authorization</sub>
+      <br>
+      <sub>Input validation</sub>
+    </td>
+
+    <td align="center" width="14%">
+      <h2>🚀</h2>
+      <b>DELIVER</b>
+      <br><br>
+      <sub>Test</sub>
+      <br>
+      <sub>Deploy</sub>
+      <br>
+      <sub>Monitor & improve</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <h3>☕</h3>
+      <b>JAVA</b>
+      <br>
+      <sub>OOP • Collections</sub>
+      <br>
+      <sub>Streams • Exceptions</sub>
+    </td>
+
+    <td align="center" width="20%">
+      <h3>🌱</h3>
+      <b>SPRING ECOSYSTEM</b>
+      <br>
+      <sub>Spring Framework</sub>
+      <br>
+      <sub>Spring Boot • MVC</sub>
+    </td>
+
+    <td align="center" width="20%">
+      <h3>🧩</h3>
+      <b>PERSISTENCE</b>
+      <br>
+      <sub>JPA • Hibernate</sub>
+      <br>
+      <sub>Repositories • ORM</sub>
+    </td>
+
+    <td align="center" width="20%">
+      <h3>🌐</h3>
+      <b>REST APIs</b>
+      <br>
+      <sub>CRUD • HTTP</sub>
+      <br>
+      <sub>JSON • Postman</sub>
+    </td>
+
+    <td align="center" width="20%">
+      <h3>🐬</h3>
+      <b>DATABASE</b>
+      <br>
+      <sub>MySQL • SQL</sub>
+      <br>
+      <sub>Relationships • Queries</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧱</h3>
+      <b>ARCHITECTURE</b>
+      <br><br>
+      <code>Controller</code>
+      <br>↓<br>
+      <code>Service</code>
+      <br>↓<br>
+      <code>Repository</code>
+      <br>↓<br>
+      <code>Database</code>
+    </td>
+
+    <td align="center" width="25%">
+      <h3>🔐</h3>
+      <b>SECURITY</b>
+      <br><br>
+      <code>Authentication</code>
+      <br>↓<br>
+      <code>Authorization</code>
+      <br>↓<br>
+      <code>Roles / Permissions</code>
+      <br>↓<br>
+      <code>Protected APIs</code>
+    </td>
+
+    <td align="center" width="25%">
+      <h3>🧪</h3>
+      <b>QUALITY</b>
+      <br><br>
+      <code>Validation</code>
+      <br>↓<br>
+      <code>Exception Handling</code>
+      <br>↓<br>
+      <code>API Testing</code>
+      <br>↓<br>
+      <code>Refactoring</code>
+    </td>
+
+    <td align="center" width="25%">
+      <h3>📈</h3>
+      <b>SCALABILITY</b>
+      <br><br>
+      <code>Clean Architecture</code>
+      <br>↓<br>
+      <code>Performance</code>
+      <br>↓<br>
+      <code>Caching</code>
+      <br>↓<br>
+      <code>System Design</code>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=UltraProXDev&bg_color=050B14&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=006D8F&area=true&hide_border=true&custom_title=ULTRAPROXDEV%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
-    width="100%"
-    alt="UltraProXDev Contribution Activity"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=40&lines=Understand+%E2%86%92+Architect+%E2%86%92+Engineer+%E2%86%92+Secure+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Improve"
+    alt="Backend engineering workflow"
   />
 </p>
 
 ---
 
-# `12` // CONTRIBUTION SNAKE
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UltraProXDev/UltraProXDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UltraProXDev/UltraProXDev/output/github-contribution-grid-snake.svg">
-  <img
-    src="https://raw.githubusercontent.com/UltraProXDev/UltraProXDev/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</p>
-
----
-
-# `13` // GITHUB TROPHIES
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=UltraProXDev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="96%"
-    alt="GitHub Profile Trophies"
-  />
-</p>
-
----
-
-# `14` // DEVELOPMENT WORKFLOW
+# `11` // DEVELOPMENT WORKFLOW
 
 ```text
        ┌─────────────────────────┐
@@ -668,7 +834,7 @@ The project represents my practical implementation of:
 
 ---
 
-# `15` // ENGINEERING PRINCIPLES
+# `12` // ENGINEERING PRINCIPLES
 
 <table>
 <tr>
@@ -716,7 +882,7 @@ Refactor, optimize and keep learning.
 
 ---
 
-# `16` // 2026 ROADMAP
+# `13` // 2026 ROADMAP
 
 ```text
                          2026
@@ -753,7 +919,7 @@ Refactor, optimize and keep learning.
 
 ---
 
-# `17` // CONNECT
+# `14` // CONNECT
 
 <p align="center">
 
