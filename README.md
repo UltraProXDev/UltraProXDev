@@ -152,6 +152,14 @@ DATABASE
   <img src="https://skillicons.dev/icons?i=idea,eclipse,postman,git,github,vscode,linux,docker&theme=dark" />
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=databricks&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Algorithms-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=blueprint&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=probot&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=00F7FF" />
+</p>
+
 | Tool            | Role                                          |
 | --------------- | --------------------------------------------- |
 | `IntelliJ IDEA` | Primary Java / Spring IDE                     |
@@ -581,109 +589,412 @@ The project represents my practical implementation of:
 
 ---
 
-<h2 align="center">⚡ THE BACKEND PIPELINE</h2>
+## 🧪 My Development Workflow
 
-<table align="center">
-<tr>
+> **Think → Architect → Engineer → Validate → Ship → Observe → Evolve**
 
-<td align="center" width="16%">
-<h2>💡</h2>
-<b>PROBLEM</b>
-<br><br>
-<sub>Requirements</sub>
-<br>
-<sub>Constraints</sub>
-<br>
-<sub>Use Cases</sub>
-</td>
+```mermaid
+flowchart TB
 
-<td align="center">➜</td>
+    %% ==========================================================
+    %% 01 — DISCOVERY
+    %% ==========================================================
 
-<td align="center" width="16%">
-<h2>🏗️</h2>
-<b>DESIGN</b>
-<br><br>
-<sub>Architecture</sub>
-<br>
-<sub>Components</sub>
-<br>
-<sub>Data Model</sub>
-</td>
+    A([💡 IDEA]) --> B[🔎 RESEARCH]
+    B --> C[📋 REQUIREMENTS]
+    C --> D{🎯 PROBLEM<br/>DEFINED?}
 
-<td align="center">➜</td>
+    D -->|❌ NO| B
+    D -->|✅ YES| E[🧠 SYSTEM THINKING]
 
-<td align="center" width="16%">
-<h2>⚙️</h2>
-<b>BUILD</b>
-<br><br>
-<sub>Java</sub>
-<br>
-<sub>Spring Boot</sub>
-<br>
-<sub>Clean Code</sub>
-</td>
+    %% ==========================================================
+    %% 02 — ARCHITECTURE
+    %% ==========================================================
 
-<td align="center">➜</td>
+    E --> F{{🏗️ ARCHITECTURE}}
 
-<td align="center" width="16%">
-<h2>🌐</h2>
-<b>CONNECT</b>
-<br><br>
-<sub>REST API</sub>
-<br>
-<sub>JPA</sub>
-<br>
-<sub>MySQL</sub>
-</td>
+    F --> G[🌐 API DESIGN]
+    F --> H[🗄️ DATA MODEL]
+    F --> I[🔐 SECURITY MODEL]
+    F --> J[📦 PROJECT STRUCTURE]
 
-<td align="center">➜</td>
+    G --> K[🧩 COMPONENT DESIGN]
+    H --> K
+    I --> K
+    J --> K
 
-<td align="center" width="16%">
-<h2>🔐</h2>
-<b>PROTECT</b>
-<br><br>
-<sub>Security</sub>
-<br>
-<sub>Validation</sub>
-<br>
-<sub>Authorization</sub>
-</td>
+    K --> L{⚖️ DESIGN<br/>VALIDATED?}
 
-<td align="center">➜</td>
+    L -->|❌ REWORK| E
+    L -->|✅ READY| M[⚙️ IMPLEMENTATION]
 
-<td align="center" width="16%">
-<h2>🚀</h2>
-<b>SHIP</b>
-<br><br>
-<sub>Test</sub>
-<br>
-<sub>Deploy</sub>
-<br>
-<sub>Improve</sub>
-</td>
+    %% ==========================================================
+    %% 03 — ENGINEERING
+    %% ==========================================================
 
-</tr>
-</table>
+    M --> N[☕ JAVA]
+    N --> O[🌱 SPRING BOOT]
 
-<p align="center">
-  <b>
-    <code>IDEA</code>
-    →
-    <code>ARCHITECTURE</code>
-    →
-    <code>IMPLEMENTATION</code>
-    →
-    <code>API</code>
-    →
-    <code>DATABASE</code>
-    →
-    <code>SECURITY</code>
-    →
-    <code>TESTING</code>
-    →
-    <code>PRODUCTION</code>
-  </b>
-</p>
+    O --> P[🎯 CONTROLLER]
+    P --> Q[🧠 SERVICE]
+    Q --> R[🗃️ REPOSITORY]
+    R --> S[🧩 JPA / HIBERNATE]
+    S --> T[(🐬 MYSQL)]
+
+    %% ==========================================================
+    %% 04 — API + SECURITY
+    %% ==========================================================
+
+    O --> U[🔐 SPRING SECURITY]
+    U --> V[🛡️ AUTHENTICATION]
+    V --> W[🔑 AUTHORIZATION]
+
+    W --> P
+
+    %% ==========================================================
+    %% 05 — VALIDATION
+    %% ==========================================================
+
+    T --> X[🧪 INTEGRATION TEST]
+    P --> X
+    W --> X
+
+    X --> Y[📮 POSTMAN]
+    Y --> Z{🔍 TESTS<br/>PASS?}
+
+    Z -->|❌ FAIL| AA[🐛 DEBUG]
+    AA --> M
+
+    Z -->|✅ PASS| AB[🔍 CODE REVIEW]
+
+    %% ==========================================================
+    %% 06 — DELIVERY
+    %% ==========================================================
+
+    AB --> AC{🚦 PRODUCTION<br/>READY?}
+
+    AC -->|❌ NO| AD[♻️ REFACTOR]
+    AD --> M
+
+    AC -->|✅ YES| AE[📦 BUILD]
+    AE --> AF[🚀 DEPLOY]
+
+    %% ==========================================================
+    %% 07 — OBSERVABILITY
+    %% ==========================================================
+
+    AF --> AG[📊 MONITOR]
+    AG --> AH[📈 MEASURE]
+    AH --> AI{⚡ OPTIMIZE?}
+
+    AI -->|🚀 PERFORMANCE| AJ[⚡ OPTIMIZE]
+    AI -->|🔐 SECURITY| AK[🛡️ HARDEN]
+    AI -->|📈 SCALE| AL[🌐 SCALE]
+    AI -->|✨ FEATURES| AM[🧩 EVOLVE]
+
+    AJ --> E
+    AK --> E
+    AL --> E
+    AM --> E
+
+    %% ==========================================================
+    %% ANIMATED EDGES
+    %% ==========================================================
+
+    A e1@==> B
+    e1@{ animation: fast }
+
+    B e2@==> C
+    e2@{ animation: fast }
+
+    E e3@==> F
+    e3@{ animation: slow }
+
+    F e4@==> K
+    e4@{ animation: slow }
+
+    K e5@==> M
+    e5@{ animation: fast }
+
+    M e6@==> O
+    e6@{ animation: fast }
+
+    O e7@==> P
+    e7@{ animation: fast }
+
+    Q e8@==> R
+    e8@{ animation: slow }
+
+    R e9@==> S
+    e9@{ animation: slow }
+
+    S e10@==> T
+    e10@{ animation: fast }
+
+    T e11@==> X
+    e11@{ animation: fast }
+
+    X e12@==> Y
+    e12@{ animation: fast }
+
+    AB e13@==> AE
+    e13@{ animation: fast }
+
+    AE e14@==> AF
+    e14@{ animation: fast }
+
+    AF e15@==> AG
+    e15@{ animation: slow }
+
+    AG e16@==> AH
+    e16@{ animation: slow }
+
+    AH e17@==> AI
+    e17@{ animation: slow }
+
+    %% ==========================================================
+    %% NEON THEME
+    %% ==========================================================
+
+    classDef idea fill:#06141d,stroke:#00e5ff,color:#00e5ff,stroke-width:2px;
+    classDef research fill:#0a1622,stroke:#38bdf8,color:#7dd3fc,stroke-width:2px;
+    classDef architecture fill:#110d24,stroke:#a855f7,color:#d8b4fe,stroke-width:2px;
+    classDef engineering fill:#061d17,stroke:#00ff9d,color:#5fffc0,stroke-width:2px;
+    classDef database fill:#211604,stroke:#ffb000,color:#ffd166,stroke-width:2px;
+    classDef security fill:#230817,stroke:#ff3b81,color:#ff7aa8,stroke-width:2px;
+    classDef testing fill:#1c1704,stroke:#ffe600,color:#fff176,stroke-width:2px;
+    classDef deployment fill:#06182b,stroke:#00aaff,color:#66d9ff,stroke-width:2px;
+    classDef monitor fill:#0d1426,stroke:#6366f1,color:#a5b4fc,stroke-width:2px;
+    classDef decision fill:#111111,stroke:#ffffff,color:#ffffff,stroke-width:2px;
+
+    class A idea;
+    class B,C research;
+    class E,F,G,H,I,J,K,L architecture;
+    class M,N,O,P,Q,R,S engineering;
+    class T database;
+    class U,V,W security;
+    class X,Y,Z,AA,AB testing;
+    class AC,AD,AE,AF deployment;
+    class AG,AH,AI,AJ,AK,AL,AM monitor;
+    class D,L,Z,AC,AI decision;
+```
+
+### 🧬 The Engineering Loop
+
+```mermaid
+flowchart LR
+
+    A([💡 THINK])
+    --> B([🏗️ DESIGN])
+    --> C([⚙️ BUILD])
+    --> D([🧪 TEST])
+    --> E([🔍 REVIEW])
+    --> F{🚦 READY?}
+
+    F -->|NO| G([🐛 DEBUG])
+    G --> C
+
+    F -->|YES| H([🚀 SHIP])
+    H --> I([📊 OBSERVE])
+    I --> J([📈 LEARN])
+    J --> K{♻️ IMPROVE?}
+
+    K -->|YES| B
+    K -->|NO| L([✨ STABLE])
+
+    %% Animated flow
+
+    A a1@==> B
+    a1@{ animation: fast }
+
+    B a2@==> C
+    a2@{ animation: fast }
+
+    C a3@==> D
+    a3@{ animation: fast }
+
+    D a4@==> E
+    a4@{ animation: fast }
+
+    E a5@==> F
+    a5@{ animation: slow }
+
+    H a6@==> I
+    a6@{ animation: fast }
+
+    I a7@==> J
+    a7@{ animation: slow }
+
+    %% Neon styles
+
+    classDef cyan fill:#061820,stroke:#00e5ff,color:#00e5ff,stroke-width:2px;
+    classDef purple fill:#130d24,stroke:#a855f7,color:#d8b4fe,stroke-width:2px;
+    classDef green fill:#061d17,stroke:#00ff9d,color:#5fffc0,stroke-width:2px;
+    classDef yellow fill:#211a04,stroke:#ffe600,color:#fff176,stroke-width:2px;
+    classDef blue fill:#06182b,stroke:#00aaff,color:#66d9ff,stroke-width:2px;
+    classDef decision fill:#111111,stroke:#ffffff,color:#ffffff,stroke-width:2px;
+
+    class A,B cyan;
+    class C purple;
+    class D,E,G yellow;
+    class H,I blue;
+    class J,K,L green;
+    class F decision;
+```
+
+### 🌐 Backend Request Journey
+
+```mermaid
+flowchart LR
+
+    CLIENT([👤 CLIENT])
+    --> REQUEST[🌐 HTTP REQUEST]
+
+    REQUEST
+    --> SECURITY[🔐 SPRING SECURITY]
+
+    SECURITY
+    --> AUTH{🛡️ AUTHORIZED?}
+
+    AUTH -->|❌| DENIED[🚫 401 / 403]
+    AUTH -->|✅| CONTROLLER[🎯 REST CONTROLLER]
+
+    CONTROLLER
+    --> VALIDATE[✅ VALIDATION]
+
+    VALIDATE
+    --> SERVICE[🧠 SERVICE LAYER]
+
+    SERVICE
+    --> REPOSITORY[🗃️ REPOSITORY]
+
+    REPOSITORY
+    --> ORM[🧩 JPA / HIBERNATE]
+
+    ORM
+    --> DATABASE[(🐬 MYSQL)]
+
+    DATABASE
+    --> ORM
+    --> REPOSITORY
+    --> SERVICE
+    --> RESPONSE[📦 DTO / JSON]
+
+    RESPONSE
+    --> CLIENT
+
+    %% Animated data path
+
+    REQUEST r1@==> SECURITY
+    r1@{ animation: fast }
+
+    SECURITY r2@==> CONTROLLER
+    r2@{ animation: fast }
+
+    CONTROLLER r3@==> SERVICE
+    r3@{ animation: fast }
+
+    SERVICE r4@==> REPOSITORY
+    r4@{ animation: slow }
+
+    REPOSITORY r5@==> ORM
+    r5@{ animation: slow }
+
+    ORM r6@==> DATABASE
+    r6@{ animation: fast }
+
+    DATABASE r7@==> RESPONSE
+    r7@{ animation: fast }
+
+    RESPONSE r8@==> CLIENT
+    r8@{ animation: fast }
+
+    %% Styles
+
+    classDef client fill:#061820,stroke:#00e5ff,color:#00e5ff,stroke-width:2px;
+    classDef security fill:#230817,stroke:#ff3b81,color:#ff7aa8,stroke-width:2px;
+    classDef backend fill:#130d24,stroke:#a855f7,color:#d8b4fe,stroke-width:2px;
+    classDef database fill:#211604,stroke:#ffb000,color:#ffd166,stroke-width:2px;
+    classDef response fill:#061d17,stroke:#00ff9d,color:#5fffc0,stroke-width:2px;
+    classDef decision fill:#111111,stroke:#ffffff,color:#ffffff,stroke-width:2px;
+
+    class CLIENT,REQUEST client;
+    class SECURITY,DENIED security;
+    class CONTROLLER,VALIDATE,SERVICE,REPOSITORY,ORM backend;
+    class DATABASE database;
+    class RESPONSE response;
+    class AUTH decision;
+```
+
+### ⚡ My Backend Philosophy
+
+```mermaid
+flowchart TB
+
+    A([🧠 UNDERSTAND])
+    --> B([🏗️ ARCHITECT])
+
+    B --> C([☕ JAVA])
+    C --> D([🌱 SPRING BOOT])
+
+    D --> E([🌐 REST API])
+    E --> F([🔐 SECURITY])
+
+    F --> G([🧩 JPA])
+    G --> H([🐬 MYSQL])
+
+    H --> I([🧪 TEST])
+    I --> J([🔍 REVIEW])
+
+    J --> K([🚀 DEPLOY])
+    K --> L([📊 MONITOR])
+
+    L --> M([📈 OPTIMIZE])
+    M --> B
+
+    A a1@==> B
+    a1@{ animation: slow }
+
+    C c1@==> D
+    c1@{ animation: fast }
+
+    D d1@==> E
+    d1@{ animation: fast }
+
+    E e1@==> F
+    e1@{ animation: fast }
+
+    F f1@==> G
+    f1@{ animation: slow }
+
+    G g1@==> H
+    g1@{ animation: slow }
+
+    H h1@==> I
+    h1@{ animation: fast }
+
+    K k1@==> L
+    k1@{ animation: slow }
+
+    L l1@==> M
+    l1@{ animation: slow }
+
+    M m1@==> B
+    m1@{ animation: fast }
+
+    classDef cyan fill:#061820,stroke:#00e5ff,color:#00e5ff,stroke-width:2px;
+    classDef purple fill:#130d24,stroke:#a855f7,color:#d8b4fe,stroke-width:2px;
+    classDef green fill:#061d17,stroke:#00ff9d,color:#5fffc0,stroke-width:2px;
+    classDef blue fill:#06182b,stroke:#00aaff,color:#66d9ff,stroke-width:2px;
+    classDef orange fill:#211604,stroke:#ffb000,color:#ffd166,stroke-width:2px;
+
+    class A,B cyan;
+    class C,D,E purple;
+    class F,G green;
+    class H,I,J orange;
+    class K,L,M blue;
+```
+
 ---
 
 # `11` // DEVELOPMENT WORKFLOW
