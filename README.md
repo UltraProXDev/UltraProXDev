@@ -2,331 +2,621 @@
 
 ### 🚀 Aspiring Software Developer • Problem Solver • Lifelong Learner
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Data+Structures+%26+Algorithms+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;Building+Projects+%7C+Solving+Problems;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,35:0A192F,70:00A6FF,100:00F7FF&height=230&section=header&text=UltraProXDev&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Code.%20Learn.%20Build.%20Repeat.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Spring+Framework+%7C+Spring+Security;REST+API+%7C+JPA+%7C+Hibernate+%7C+MySQL;Building+Clean%2C+Secure+%26+Scalable+Backend+Systems;Learning+System+Design+%7C+DSA+%7C+Backend+Engineering" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat-square" />
+  <a href="https://github.com/UltraProXDev">
+    <img src="https://img.shields.io/badge/GitHub-UltraProXDev-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=203a43" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=UltraProXDev&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND-JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SECURITY-00F7FF?style=flat-square&logo=springsecurity&logoColor=black"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm an **aspiring software developer** passionate about understanding how things work under the hood and turning ideas into clean, maintainable software.
-
-My current journey revolves around:
+# 👨‍💻 About Me
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🧠 Problem Solving       → Algorithms & Data Structures  │
-│   ☕ Java                  → OOP & Advanced Java            │
-│   🐍 Python               → Automation & Backend           │
-│   ⚡ C++                  → Competitive Programming        │
-│   🏗️ System Design        → Scalable Architecture          │
-│   🔧 Software Engineering  → Clean & Maintainable Code     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│   👋 Hi, I'm UltraProXDev                                         │
+│                                                                    │
+│   I'm an aspiring Backend Developer focused on building           │
+│   secure, maintainable and scalable Java applications.             │
+│                                                                    │
+│   My primary ecosystem:                                           │
+│                                                                    │
+│       ☕ Java                                                       │
+│       🌱 Spring Framework                                           │
+│       🚀 Spring Boot                                                │
+│       🔐 Spring Security                                            │
+│       🗃️ JPA + Hibernate                                            │
+│       🐬 MySQL                                                      │
+│       🌐 REST APIs                                                  │
+│                                                                    │
+│   I enjoy transforming business requirements into structured       │
+│   backend systems with clean architecture and reliable APIs.       │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
 
-> **"Don't just write code. Understand the problem, design the solution, and build something that lasts."**
+> **Build systems that are simple to understand, difficult to break, and easy to improve.**
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 My Backend Engineering Focus
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" />
-</p>
-
-### 🧠 Core Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures-0D1117?style=for-the-badge&logo=databricks&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Algorithms-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logo=blueprint&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logo=probot&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=00F7FF" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql&theme=dark" />
-</p>
-
----
-
-# 🚀 What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧩 Data Structures & Algorithms
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Graphs
-* Hashing
-* Recursion & Backtracking
-* Dynamic Programming
-* Searching & Sorting
-* Graph Algorithms
-
-</td>
-
-<td width="50%">
-
-### 🏗️ Software Engineering
-
-* Advanced Java
-* Advanced Python
-* Backend fundamentals
-* REST API concepts
-* Database fundamentals
-* System design basics
-* Git & GitHub workflows
-* Clean code principles
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌱 Currently Learning
+<p align="center">
 
 ```text
-                    MY LEARNING ROADMAP
-
-                         ┌───────────┐
-                         │   CORE    │
-                         │ PROGRAMMING│
-                         └─────┬─────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-          ┌──────────┐   ┌──────────┐   ┌──────────┐
-          │   DSA    │   │   JAVA   │   │  PYTHON  │
-          └────┬─────┘   └────┬─────┘   └────┬─────┘
-               │              │              │
-               └──────────────┼──────────────┘
-                              ▼
-                     ┌────────────────┐
-                     │   BACKEND DEV  │
-                     └───────┬────────┘
-                             │
-                             ▼
-                     ┌────────────────┐
-                     │ SYSTEM DESIGN  │
-                     └───────┬────────┘
-                             │
-                             ▼
-                     ┌────────────────┐
-                     │ BUILD PROJECTS │
-                     └────────────────┘
+                         ┌───────────────────┐
+                         │   BUSINESS IDEA   │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │  REQUIREMENTS     │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       SPRING BOOT APP        │
+                    └──────────────┬───────────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              ▼                    ▼                    ▼
+       ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+       │ CONTROLLER  │ ───► │  SERVICE    │ ───► │ REPOSITORY  │
+       │   REST API  │      │ BUSINESS    │      │    JPA      │
+       └─────────────┘      │   LOGIC     │      └──────┬──────┘
+                            └─────────────┘             │
+                                                       ▼
+                                                ┌─────────────┐
+                                                │   MYSQL     │
+                                                │  DATABASE   │
+                                                └─────────────┘
 ```
 
-### 🎯 2026 Goals
+</p>
 
-* [ ] Master advanced Data Structures & Algorithms
-* [ ] Improve competitive programming skills
-* [ ] Build production-quality backend projects
-* [ ] Strengthen Java & Python fundamentals
-* [ ] Learn scalable system design
-* [ ] Contribute to open-source projects
-* [ ] Build and deploy real-world applications
-* [ ] Maintain consistent GitHub contributions
+---
+
+# ⚡ Core Technology Stack
+
+## ☕ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,maven&theme=dark"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+## 🌐 API & Database
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest&logoColor=white"/>
+<img src="https://img.shields.io/badge/CRUD-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## 🧰 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=idea,eclipse,postman,git,github,vscode,docker,linux&theme=dark"/>
+</p>
+
+| Tool                 | Purpose                                   |
+| -------------------- | ----------------------------------------- |
+| 🧠 **IntelliJ IDEA** | Primary Java / Spring development         |
+| 🌙 **Eclipse**       | Java development & experimentation        |
+| 📮 **Postman**       | REST API development & testing            |
+| 🔧 **Git**           | Version control                           |
+| 🐙 **GitHub**        | Source control & collaboration            |
+| 📦 **Maven**         | Dependency & build management             |
+| 🐧 **Linux**         | Development environment                   |
+| 🐳 **Docker**        | Containerization & deployment exploration |
+| 💻 **VS Code**       | Lightweight development & configuration   |
+
+---
+
+# 🔐 Backend Skills
+
+```text
+JAVA
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── Streams & Lambdas
+ ├── Generics
+ └── Clean Code
+
+SPRING
+ ├── Spring Framework
+ ├── Spring Boot
+ ├── Spring MVC
+ ├── Dependency Injection
+ ├── Spring Data JPA
+ └── Spring Security
+
+DATABASE
+ ├── MySQL
+ ├── SQL
+ ├── Database Design
+ ├── Relationships
+ ├── CRUD Operations
+ └── ORM
+
+API
+ ├── REST Architecture
+ ├── HTTP Methods
+ ├── Request / Response
+ ├── JSON
+ ├── API Testing
+ └── Exception Handling
+
+ENGINEERING
+ ├── Layered Architecture
+ ├── MVC
+ ├── DTO Pattern
+ ├── Repository Pattern
+ ├── Service Layer
+ ├── Validation
+ └── Clean Architecture Principles
+```
+
+---
+
+# 🚀 Featured Project
+
+## 🏢 Company Management System
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0A192F,100:00F7FF&height=100&section=header&text=Company%20Management%20System&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <b>A Java Spring Boot backend project for managing company-related data through structured REST APIs and database operations.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/UltraProXDev/Company-Management-System">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+### 🧱 Architecture
+
+```text
+                     CLIENT
+                       │
+                       ▼
+              ┌─────────────────┐
+              │    REST API     │
+              │   Controller    │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     SERVICE     │
+              │ Business Logic  │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   REPOSITORY    │
+              │ Spring Data JPA │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     MYSQL       │
+              │    DATABASE     │
+              └─────────────────┘
+```
+
+### 🔧 Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+### 🎯 Concepts Demonstrated
+
+* RESTful API development
+* CRUD operations
+* Spring Boot application structure
+* Controller / Service / Repository architecture
+* JPA entity mapping
+* Hibernate ORM
+* MySQL database integration
+* Dependency Injection
+* Maven dependency management
+* API testing with Postman
+* Layered backend architecture
+
+---
+
+# 🏗️ Backend Architecture I Follow
+
+```text
+src/
+│
+├── controller/
+│      └── Handles HTTP requests
+│
+├── service/
+│      └── Contains business logic
+│
+├── repository/
+│      └── Database access through JPA
+│
+├── entity/
+│      └── Database/domain models
+│
+├── dto/
+│      └── Request & response objects
+│
+├── exception/
+│      └── Global exception handling
+│
+├── config/
+│      └── Application configuration
+│
+└── Application.java
+       └── Spring Boot entry point
+```
+
+### 🔄 Request Lifecycle
+
+```text
+HTTP Request
+     │
+     ▼
+┌───────────────┐
+│   Controller  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│    Service    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│   Repository  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│     MySQL     │
+└───────┬───────┘
+        │
+        ▼
+     Response
+```
+
+---
+
+# 🧪 API Development Workflow
+
+```text
+       ┌──────────────┐
+       │ Requirements │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │ API Design   │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │ Controller   │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │   Service    │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │ Repository   │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │    MySQL     │
+       └──────┬───────┘
+              ▼
+       ┌──────────────┐
+       │   Postman    │
+       │   Testing    │
+       └──────┬───────┘
+              ▼
+       🚀 Production
+```
+
+---
+
+# 🤖 AI-Powered Development
+
+I use modern AI tools as **development assistants**, not replacements for understanding the fundamentals.
+
+### 🧠 AI Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blackbox_AI-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge"/>
+</p>
+
+### ⚙️ How I Use AI
+
+```text
+                    ┌─────────────────┐
+                    │   Problem / Idea │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Research + Learn│
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ AI Assistance   │
+                    │ ChatGPT / Claude│
+                    │ Gemini / Copilot│
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Human Review    │
+                    │ Understand Code │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Implement       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ Test + Debug    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                         🚀 SHIP
+```
+
+---
+
+# 📚 Current Learning Path
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mastering+Java+Backend+Development;Deepening+Spring+Boot+Knowledge;Learning+Spring+Security;Improving+Database+Design;Exploring+System+Design;Building+Production-Ready+APIs" />
+</p>
+
+### 🟢 In Progress
+
+* ☕ Advanced Java
+* 🌱 Spring Framework
+* 🚀 Spring Boot
+* 🔐 Spring Security
+* 🗃️ JPA & Hibernate
+* 🐬 MySQL & SQL
+* 🌐 REST API Development
+* 🧪 API Testing with Postman
+* 🧠 Data Structures & Algorithms
+* 🏗️ Backend Architecture
+* 📐 System Design Fundamentals
+
+### 🔵 Next
+
+* [ ] JWT Authentication
+* [ ] Role-Based Authorization
+* [ ] Advanced Exception Handling
+* [ ] DTO + Mapper Architecture
+* [ ] Pagination & Sorting
+* [ ] API Documentation
+* [ ] Docker
+* [ ] CI/CD
+* [ ] Redis
+* [ ] Microservices
+* [ ] Cloud Deployment
+* [ ] Advanced System Design
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UltraProXDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraProXDev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://streak-stats.demolab.com?user=UltraProXDev&theme=transparent&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=777777" width="700"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/UltraProXDev/UltraProXDev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
+
+> If the snake image is not appearing, create the GitHub Action described below.
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraProXDev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&custom_title=UltraProXDev%20Contribution%20Graph" width="100%"/>
 </p>
 
 ---
 
-# 💻 Coding Philosophy
+# 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td align="center">🧠<br><b>Understand</b><br><sub>Understand the problem first.</sub></td>
-<td align="center">🧩<br><b>Design</b><br><sub>Think before writing code.</sub></td>
-<td align="center">⚙️<br><b>Build</b><br><sub>Turn ideas into working software.</sub></td>
-<td align="center">🔍<br><b>Improve</b><br><sub>Refactor, optimize, learn.</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UltraProXDev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 Developer Growth
 
-> Replace these with your best repositories.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Project One
-
-**A practical project demonstrating problem solving, clean architecture, and modern development practices.**
-
-`Java` `DSA` `OOP`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two
-
-**A Python-based project focused on automation, backend concepts, or real-world problem solving.**
-
-`Python` `Backend` `API`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Project Three
-
-**A data-structures or algorithm-focused project built to strengthen core computer science concepts.**
-
-`C++` `Algorithms` `DSA`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🏗️ Project Four
-
-**An evolving project where I experiment with architecture, databases, APIs, and scalable software design.**
-
-`Java` `SQL` `Backend`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-<img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧪 My Development Workflow
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🔎 Research]
-    B --> C[🧠 Design]
-    C --> D[💻 Code]
-    D --> E[🧪 Test]
-    E --> F[🔍 Review]
-    F --> G[🚀 Deploy]
-    G --> H[📈 Improve]
-    H --> B
+```text
+2024                         2025                         2026
+ │                            │                            │
+ ▼                            ▼                            ▼
+Programming              Java + DSA                 Spring Boot
+Fundamentals                  │                            │
+ │                            ▼                            ▼
+ ▼                       OOP + SQL                 REST APIs
+Algorithms                    │                            │
+ │                            ▼                            ▼
+ ▼                       Git + GitHub             JPA + Hibernate
+ │                            │                            │
+ └────────────────────────────┴────────────────────────────┘
+                              │
+                              ▼
+                       🚀 Backend Engineer
+                              │
+                              ▼
+                       System Design
+                              │
+                              ▼
+                       Cloud / DevOps
 ```
 
 ---
 
-# 📚 Currently Exploring
+# 🎯 2026 Goals
 
-| Area                  | What I'm Learning                                   |
-| --------------------- | --------------------------------------------------- |
-| 🧠 **DSA**            | Advanced algorithms, optimization & problem solving |
-| ☕ **Java**            | Advanced Java, OOP & backend development            |
-| 🐍 **Python**         | Backend development, automation & scripting         |
-| ⚡ **C++**             | Competitive programming & performance               |
-| 🏗️ **System Design** | Scalability, architecture & design patterns         |
-| 🗄️ **Databases**     | SQL, data modeling & database fundamentals          |
-| 🌐 **Backend**        | APIs, services & server-side development            |
-| 🔧 **Git**            | Version control & collaborative development         |
+<table>
+<tr>
+<td>☑️</td>
+<td>Build real-world Spring Boot applications</td>
+</tr>
+<tr>
+<td>☑️</td>
+<td>Strengthen Java fundamentals</td>
+</tr>
+<tr>
+<td>☑️</td>
+<td>Master REST API development</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Master Spring Security & JWT</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Improve SQL & database design</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Learn Docker & deployment</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Explore microservices</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Learn scalable system design</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Contribute to open source</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Developer Journey
+# 🧩 Engineering Principles
 
 ```text
-Beginner
-   │
-   ▼
-Programming Fundamentals
-   │
-   ▼
-Data Structures & Algorithms
-   │
-   ▼
-Object-Oriented Programming
-   │
-   ▼
-Advanced Java / Python / C++
-   │
-   ▼
-Backend Development
-   │
-   ▼
-System Design
-   │
-   ▼
-Real-World Projects
-   │
-   ▼
-Open Source
-   │
-   ▼
-🚀 Professional Software Developer
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│   🧠 Understand before implementing                   │
+│                                                       │
+│   🧹 Keep code clean and readable                     │
+│                                                       │
+│   🔐 Security should be designed, not added later     │
+│                                                       │
+│   🧪 Test assumptions, APIs and edge cases             │
+│                                                       │
+│   📦 Prefer modular and maintainable architecture      │
+│                                                       │
+│   📈 Optimize when there is a measurable reason       │
+│                                                       │
+│   🤖 Use AI to accelerate learning — not replace it   │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🔥 What I'm Building
+
+```text
+                 ╔══════════════════════╗
+                 ║   BACKEND ECOSYSTEM  ║
+                 ╚══════════╤═══════════╝
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+          REST API       DATABASE       SECURITY
+             │              │              │
+             ▼              ▼              ▼
+       Spring Boot        MySQL       Spring Security
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                    Production Backend
+                            │
+                            ▼
+                         🚀 Deploy
 ```
 
 ---
@@ -335,38 +625,34 @@ Open Source
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/UltraProXDev">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
 </p>
 
 ---
 
-# 💬 Developer Quote
+# 💬 Developer Mindset
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Every+bug+is+a+lesson.;Every+project+is+an+opportunity+to+improve.;Consistency+beats+motivation."/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,40:00A6FF,70:0A192F,100:050A14&height=140&section=footer&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <b>⭐ If you find my projects interesting, consider giving them a star!</b>
+  <b>⚡ Code with purpose. Build with discipline. Learn continuously.</b>
 </p>
 
 <p align="center">
-  <sub>Built with curiosity • Driven by learning • Powered by code</sub>
+  <sub>© 2026 UltraProXDev • Built with Java, Spring & curiosity.</sub>
 </p>
